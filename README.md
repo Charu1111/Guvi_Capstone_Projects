@@ -51,6 +51,4 @@ Install the requirements:
 pip install -r requirements.txt
 Run the python file:
 
-python test.py
- 
-python main.py
+python Youtube_Data_Harvesting
