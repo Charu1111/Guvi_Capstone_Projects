@@ -41,7 +41,7 @@ Git (optional, for cloning the repository)
 Installation
 Clone the repository:
 
-git clone https://github.com/Charu1111/project-1.git
+git clone https://github.com/Charu1111/Guvi_Capstone_Projects.git
 Create the environment:
 
 py -m venv env
